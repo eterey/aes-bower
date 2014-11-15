@@ -1,0 +1,25 @@
+{
+  "name": "aes",
+  "version": "0.0.1",
+  "homepage": "https://github.com/uzumaxy/aes",
+  "authors": [
+    "uzumaxy <uzumaxy@gmail.com>"
+  ],
+  "description": "Implementation of AES algorithm (CBC mode).",
+  "main": "aes.js",
+  "keywords": [
+    "aes",
+    "encrypt",
+    "decrypt",
+    "cbc",
+    "security"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
